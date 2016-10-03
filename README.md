@@ -1,5 +1,4 @@
 # hello-world
-1st repository
 
 Haruz3M
 0000001
